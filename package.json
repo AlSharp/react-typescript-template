@@ -1,6 +1,6 @@
 {
-  "name": "alsharp-typescript",
-  "version": "1.0.0",
+  "name": "@alsharp/cra-template-alsharp-typescript",
+  "version": "1.2.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -11,18 +11,18 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/AlSharp/react-typescript-template.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/AlSharp/react-typescript-template/issues"
   },
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "author": "Albert Sharapov"
 }
